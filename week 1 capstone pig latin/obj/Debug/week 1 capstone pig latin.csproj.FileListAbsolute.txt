@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\bin\Debug\week 1 capstone pig latin.exe.config
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\bin\Debug\week 1 capstone pig latin.exe
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\bin\Debug\week 1 capstone pig latin.pdb
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\obj\Debug\week 1 capstone pig latin.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\obj\Debug\week 1 capstone pig latin.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\obj\Debug\week 1 capstone pig latin.exe
+C:\Users\mcyal\source\repos\week 1 capstone pig latin\week 1 capstone pig latin\obj\Debug\week 1 capstone pig latin.pdb
